@@ -1,4 +1,4 @@
-# Sentiment Text analysis using BERT 
-This project is all about demonstration on Sentiment Text analysis using BERT and Tensorflow 
+# Sentiment Text analysis 
+This project is all about demonstration on Sentiment Text analysis using Tensorflow 
 
 **TBD soon**
